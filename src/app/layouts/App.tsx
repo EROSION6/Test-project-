@@ -1,3 +1,3 @@
 export const App = () => {
-	return <div>Welcome Bro Test ODPWDPOWMDPOWDMOPWD</div>
+	return <div>BROOOOOOOOOOOOOO</div>
 }
