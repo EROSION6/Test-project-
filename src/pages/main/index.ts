@@ -1,3 +1,3 @@
-import Main from './Page'
+import Main from './ui/Page'
 
 export { Main }
